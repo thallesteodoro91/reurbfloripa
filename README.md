@@ -1,4 +1,4 @@
-Esse projeto só foi possível graças ao curso "Formação WebGIS 2W" e também o GEMINI para organizar  o script e tirar dúvidas. 
+WebGIS criado para análise em área de risco sujeito a inundação 
 
 
 <img width="2412" height="1133" alt="Opera Instantâneo_2026-05-18_170150_localhost" src="https://github.com/user-attachments/assets/fd38a7a5-8829-4c10-bb39-fb90e1fdec50" />
@@ -42,3 +42,6 @@ Se quiser rodar este projeto na sua máquina, siga os passos abaixo:
    ```bash
    git clone [https://github.com/SEU-USUARIO/NOME-DO-REPOSITORIO.git](https://github.com/SEU-USUARIO/NOME-DO-REPOSITORIO.git)
    cd NOME-DO-REPOSITORIO
+
+
+Esse projeto só foi possível graças ao curso "Formação WebGIS 2W" e também o GEMINI para organizar  o script e tirar dúvidas. 
