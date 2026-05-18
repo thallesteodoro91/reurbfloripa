@@ -1,5 +1,9 @@
 Esse projeto só foi possível graças ao curso "Formação WebGIS 2W" e também o GEMINI para organizar  o script e tirar dúvidas. 
 
+
+<img width="2412" height="1133" alt="Opera Instantâneo_2026-05-18_170150_localhost" src="https://github.com/user-attachments/assets/fd38a7a5-8829-4c10-bb39-fb90e1fdec50" />
+
+
 # 🚨 WebGIS - Análise de Risco de Inundação
 
 Uma plataforma WebGIS minimalista e de alta performance desenvolvida em Python para a análise geoespacial de riscos hidrológicos em áreas urbanas ou perímetros de estudo. Projetada com foco na experiência do usuário (UX) inspirada em dashboards financeiros e plataformas SaaS.
